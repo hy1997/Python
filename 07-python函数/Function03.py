@@ -13,6 +13,7 @@ name = "小明"
 
 
 def say_hello():
+    """这是一个函数"""
     print("hello 1")
     print("hello 1")
     print("hello 1")
