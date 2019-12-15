@@ -20,4 +20,4 @@ def print_lines(char, times):
         i += 1
 
 
-print_lines("+", 20)
+name = "胡怡"
