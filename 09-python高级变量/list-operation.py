@@ -1,6 +1,6 @@
 # 列表常用操作 增删改查
 """"
-    int[] arr =new int[10];
+    int[] arr =new int[10];  Java里面的数组操作
 """
 
 name_lists = ["张三", "李四", "王五"]

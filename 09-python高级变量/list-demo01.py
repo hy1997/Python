@@ -1,4 +1,4 @@
-# 列表  Java里面叫数组
+# 列表  Java里面叫数组         list
 """"
     int[] arr =new int[10];
 """
