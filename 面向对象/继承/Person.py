@@ -12,3 +12,6 @@ class  Person(Animal):
     def eat(self):
         print("人吃饭")
 
+
+
+print(Person().__dir__())
