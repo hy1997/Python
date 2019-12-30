@@ -1,6 +1,6 @@
-
-   def demo():
-       num = int(input("请输入"))
+   #  异常的传递
+def demo():
+     num = int(input("请输入"))
     # result = 8/num
 
 
